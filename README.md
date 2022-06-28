@@ -4,7 +4,6 @@
 - 👋 Hi, I’m Adrian Guia
 - 👀 I’m a full-stack developer.
 - 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <p align="left" > <a href="https://linkedin.com/in/adrian-guia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-guia" height="30" width="40" /></a>
 
 </p>
