@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blees12345&layout=compact)
+
 [![blees12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=blees12345&theme=react)](https://github.com/blees12345/github-readme-stats)
 - 👋 Hi, I’m @blees12345
 - 👀 I’m interested in front end web development
